@@ -6,9 +6,9 @@ padding: 0px auto;
 
 .row-content {
 margin: 0px auto;
-padding: 50px 0px 50px 0 px;
+padding: 50px 0px 50px 0px;
 /* border-bottom: 1px ridge; */
-min-height:400px;
+min-height:200px;
 }
 
 .footer{
@@ -39,4 +39,10 @@ body{
 .navbar-dark{
      background-color:#512da8;
      outline-color: floralwhite;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
