@@ -64,3 +64,9 @@ height: 300px;
     top: 40px;
     left: 400px;
     }
+
+    #carouselButton{
+        right: 0px;
+        position: absolute;
+        bottom: 0px;
+    }
